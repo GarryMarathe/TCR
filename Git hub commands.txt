@@ -1,0 +1,58 @@
+Git hub commands
+
+git --version
+
+git config --global user.name
+&quot;w3schools-test&quot;
+git config --global user.email
+&quot;test@w3schools.com&quot;
+
+mkdir myproject
+cd myproject
+
+git init
+
+git status
+
+git add index.html
+'
+
+git commit -m &quot;First release
+of Hello World!&quot;
+
+git log
+
+git branch hello-world-images
+
+git checkout hello-world-
+images
+
+git checkout master
+
+git branch -M main
+git remote add origin https://github.com/GarryMarathe/TCR.git
+git push -u origin main
+
+
+2(B) Docker 
+
+docker --version
+docker build -t <foldername>
+docker images
+
+2(C) Angular
+
+npm --version
+npm install -g @angular/cli@latest
+ng new <foldername>
+cd <foldername>
+ng serve
+
+3(A) node.js
+
+npm install express
+node server.js
+
+
+
+
